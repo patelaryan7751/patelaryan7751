@@ -1,7 +1,7 @@
 
 
 <!--
-**patelaryan7751/patelaryan7751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**patelaryan7751/patelaryan7751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 
