@@ -12,7 +12,7 @@
 <strong>I'm Aryan Patel, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Full Stack Developer in my later career.</strong>  
 
 ## 🧐 About
-<strong>- 🏄‍ Community guy who loves being involved in communities and help to contribute for a social cause.</strong>
+<strong>- 🏄‍ L</strong>
 <strong>- 😄 I will usually be a part of hackathons as a #Participants</strong>
 
 
