@@ -12,7 +12,7 @@
 <strong>I'm Aryan Patel, Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation and see myself as a Full Stack Developer in my later career.</strong>  
 
 ## 🧐 About
-<strong>- 🏄‍ L</strong>
+<strong>- 🏄‍ Love to solve problems present in my local surroundings.</strong>
 <strong>- 😄 I will usually be a part of hackathons as a #Participants</strong>
 
 
@@ -21,7 +21,6 @@
 
 <strong>- 💬 Ask me about anything and everything!</strong>
 <strong>- 📫 How to reach me: message me at [Whatsapp](https://wa.me/917751931940)</strong><br>
-<strong>- ⚡ Fun fact: I love to crack jokes which makes other feel better and help others to see a smile on there face.</strong>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
