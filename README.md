@@ -46,3 +46,5 @@ Currently an Undergrad at VSSUT, Burla with a great interest in Coding. About me
 <a href="http://www.github.com/patelaryan7751"><img src="https://activity-graph.herokuapp.com/graph?username=patelaryan7751&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/patelaryan7751" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelaryan7751&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![@patelaryan7751's Holopin board](https://holopin.io/api/user/board?user=patelaryan7751)](https://holopin.io/@patelaryan7751)
